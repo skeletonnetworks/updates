@@ -1,10 +1,10 @@
 {
   "sn_lib": {
     "version": "1.0.5",
-    "changelog": "TESTINGGGG"
+    "changelog": "Bug fixes"
   },
   "sn_properties": {
     "version": "2.0.6",
-    "changelog": "TESTINGGGG ALSO"
+    "changelog": "Bug fixes, New stuff"
   }
 }
