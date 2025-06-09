@@ -8,7 +8,15 @@
     "changelog": "Bug fixes, New stuff"
   },
   "sn_mapdata": {
-    "version": "2.0.1",
+    "version": "1.0.1",
     "changelog": "Mirror Park new doors"
+  },
+  "sn_mirrorpark": {
+    "version": "1.0.1",
+    "changelog": "Polished"
+  },
+  "sn_furniture": {
+    "version": "1.0.1",
+    "changelog": "Stairs!"
   }
 }
