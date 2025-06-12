@@ -4,8 +4,8 @@
     "changelog": "Bug fixes"
   },
   "sn_properties": {
-    "version": "2.0.6",
-    "changelog": "Bug fixes, New stuff"
+    "version": "2.0.7",
+    "changelog": "Fixed app ui being weird on different resolutions"
   },
   "sn_mapdata": {
     "version": "1.0.1",
