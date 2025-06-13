@@ -18,5 +18,9 @@
   "sn_furniture": {
     "version": "1.0.1",
     "changelog": "Stairs!"
-  }
+  },
+  "sn_appearance": {
+    "version": "2.0.4",
+    "changelog": "Added locales, and ability to force UI settings"
+  },
 }
