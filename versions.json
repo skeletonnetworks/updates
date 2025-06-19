@@ -1,10 +1,10 @@
 {
   "sn_lib": {
-    "version": "1.1.5",
+    "version": "1.1.6",
     "changelog": "Bug fixes"
   },
   "sn_properties": {
-    "version": "2.0.7",
+    "version": "2.0.9",
     "changelog": "Fixed app ui being weird on different resolutions"
   },
   "sn_mapdata": {
