@@ -1,11 +1,11 @@
 {
   "sn_lib": {
-    "version": "1.1.6",
-    "changelog": "Bug fixes"
+    "version": "1.1.7",
+    "changelog": "Updated functions for sn_corejobs & sn_garages"
   },
   "sn_properties": {
-    "version": "2.0.9",
-    "changelog": "Fixed storages bug, Fixed ipl bugs"
+    "version": "2.2.1",
+    "changelog": "Major event optimizations"
   },
   "sn_mapdata": {
     "version": "1.0.1",
