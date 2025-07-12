@@ -1,7 +1,7 @@
 {
   "sn_lib": {
-    "version": "1.1.8",
-    "changelog": "bug fixes"
+    "version": "1.1.9",
+    "changelog": "Added functions for sn_arcade"
   },
   "sn_properties": {
     "version": "2.1.2",
