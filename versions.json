@@ -1,7 +1,7 @@
 {
   "sn_lib": {
-    "version": "1.1.7",
-    "changelog": "Updated functions for sn_corejobs & sn_garages"
+    "version": "1.1.8",
+    "changelog": "bug fixes"
   },
   "sn_properties": {
     "version": "2.1.2",
@@ -21,6 +21,10 @@
   },
   "sn_appearance": {
     "version": "2.0.5",
+    "changelog": "Bug fixes"
+  },
+  "sn_corejobs": {
+    "version": "1.1.2",
     "changelog": "Bug fixes"
   },
 }
