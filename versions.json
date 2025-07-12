@@ -4,7 +4,7 @@
     "changelog": "Updated functions for sn_corejobs & sn_garages"
   },
   "sn_properties": {
-    "version": "2.2.1",
+    "version": "2.1.2",
     "changelog": "Major event optimizations"
   },
   "sn_mapdata": {
