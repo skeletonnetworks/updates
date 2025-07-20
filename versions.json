@@ -1,11 +1,11 @@
 {
   "sn_lib": {
     "version": "1.1.9",
-    "changelog": "Added functions for sn_arcade"
+    "changelog": "Added upload images to api"
   },
   "sn_properties": {
-    "version": "2.1.2",
-    "changelog": "Major event optimizations"
+    "version": "2.1.5",
+    "changelog": "You can use media apis for storing images online & Optimized tablet app"
   },
   "sn_mapdata": {
     "version": "1.0.1",
