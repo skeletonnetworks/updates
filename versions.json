@@ -1,7 +1,7 @@
 {
   "sn_lib": {
-    "version": "1.1.11",
-    "changelog": "Added upload images to api"
+    "version": "1.1.20",
+    "changelog": "Bug Fixes and new greenscreen system"
   },
   "sn_properties": {
     "version": "2.1.5",
@@ -28,3 +28,4 @@
     "changelog": "Bug fixes"
   },
 }
+
