@@ -4,8 +4,8 @@
     "changelog": "Bug Fixes and new greenscreen system"
   },
   "sn_properties": {
-    "version": "2.1.5",
-    "changelog": "You can use media apis for storing images online & Optimized tablet app"
+    "version": "2.1.7",
+    "changelog": "Bug Fixes"
   },
   "sn_mapdata": {
     "version": "1.0.1",
@@ -28,5 +28,6 @@
     "changelog": "Bug fixes"
   },
 }
+
 
 
